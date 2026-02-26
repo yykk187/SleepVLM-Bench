@@ -42,7 +42,6 @@ We evaluate VLMs on **three PSG-based input modalities**:
 | **Expert Text Features** | Rule-based natural language descriptions of sleep events |
 | **Sequence Input** | Raw / discrete EEG sequence representations |
 
-<img src="./figures/dataset_overview.png" width="700" >
 
 ---
 
@@ -70,7 +69,7 @@ To support interpretable prompting and evaluation, we organize physician-guided 
   - alpha rhythm
   - low-amplitude mixed-frequency activity
 
-<img src="./figures/stage_rules.png" width="700" >
+<img src="./dataset.jpg" width="700" >
 
 ---
 
