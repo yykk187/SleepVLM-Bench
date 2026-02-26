@@ -50,9 +50,9 @@ We evaluate VLMs on **three PSG-based input modalities**:
 
 SleepVLM-Bench is evaluated on three public datasets:
 
-- **DCSM**
-- **SHHS**
-- **ISRUC**
+- **DCSM**https://sid.erda.dk/wsgi-bin/ls.py?share_id=fUH3xbOXv8
+- **SHHS**https://sleepdata.org/datasets/shhs
+- **ISRUC**https://sleeptight.isr.uc.pt
 
 These datasets cover different subject populations, acquisition conditions, and clinical variability, enabling both **in-domain** and **cross-dataset** evaluation.
 
