@@ -69,7 +69,7 @@ To support interpretable prompting and evaluation, we organize physician-guided 
   - alpha rhythm
   - low-amplitude mixed-frequency activity
 
-<img src="./dataset.jpg" width="700" >
+<img src="./data.jpg" width="700" >
 
 ---
 
